@@ -1,2 +1,2 @@
-# BG-ColorChnager
+# BG-ColorChanger
 
